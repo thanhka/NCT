@@ -2,6 +2,7 @@
 
     Sub Main()
         'Test commit'
+        'ABC'
     End Sub
 
 End Module
