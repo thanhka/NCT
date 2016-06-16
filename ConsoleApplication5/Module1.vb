@@ -4,6 +4,7 @@
         'Test commit'
         'ABC'
         'GHJ' 'Clone'
+        'WER'
     End Sub
 
 End Module
